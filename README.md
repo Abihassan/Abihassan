@@ -118,13 +118,13 @@ I’m passionate about building smart systems that combine innovation and real-w
 ## 📌 Pinned Projects Showcase
 
 <p align="center">
-  <a href="https://github.com/Abihassan/Smart-Cradle-AI"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ABIHASSAN-K&repo=Smart-Cradle-AI&theme=tokyonight" /></a>
-  <a href="https://github.com/Abihassan/AI-Vision-Assistant"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ABIHASSAN-K&repo=AI-Vision-Assistant&theme=tokyonight" /></a>
+  <a href="https://github.com/Abihassan/Smart-Cradle-AI"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Abihassan&repo=Smart-Cradle-AI&theme=tokyonight" /></a>
+  <a href="https://github.com/Abihassan/AI-Vision-Assistant"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Abihassan&repo=AI-Vision-Assistant&theme=tokyonight" /></a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/Abihassan/Ornithopter-Control-System"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ABIHASSAN-K&repo=Ornithopter-Control-System&theme=tokyonight" /></a>
-  <a href="https://github.com/Abihassan/Data-Visualization-Dashboard"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ABIHASSAN-K&repo=Data-Visualization-Dashboard&theme=tokyonight" /></a>
+  <a href="https://github.com/Abihassan/Ornithopter-Control-System"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Abihassan&repo=Ornithopter-Control-System&theme=tokyonight" /></a>
+  <a href="https://github.com/Abihassan/Data-Visualization-Dashboard"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Abihassan&repo=Data-Visualization-Dashboard&theme=tokyonight" /></a>
 </p>
 
 *(Tip: Replace the repo names above with your actual project repository names on GitHub!)*
