@@ -82,8 +82,8 @@ I love solving real-world problems with data-driven and intelligent solutions.
 
 ## 📊 GitHub Stats
 
-![Abihassan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ABIHASSAN-K&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ABIHASSAN-K&layout=compact&theme=tokyonight)
+![Abihassan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ABIHASSAN&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ABIHASSAN&layout=compact&theme=tokyonight)
 
 ---
 
