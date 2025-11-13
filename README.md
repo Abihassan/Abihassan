@@ -86,20 +86,20 @@ I’m passionate about building smart systems that combine innovation and real-w
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ABIHASSAN-K&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ABIHASSAN-K&layout=compact&theme=tokyonight" alt="Top Languages" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Abihassan&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abihassan&layout=compact&theme=tokyonight" alt="Top Languages" height="165" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=ABIHASSAN-K&theme=tokyonight" alt="GitHub Streak Stats" />
+  <img src="https://streak-stats.demolab.com/?user=Abihassan&theme=tokyonight" alt="GitHub Streak Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ABIHASSAN-K&theme=tokyonight&margin-w=10&margin-h=10" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Abihassan&theme=tokyonight&margin-w=10&margin-h=10" alt="GitHub Trophies" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ABIHASSAN-K&theme=tokyo-night" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abihassan&theme=tokyo-night" alt="GitHub Activity Graph" />
 </p>
 
 ---
@@ -107,7 +107,7 @@ I’m passionate about building smart systems that combine innovation and real-w
 ## 🛠️ Technologies & Tools I Use
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,keras,opencv,vscode,github,mysql,arduino,selenium,git,linux,sklearn&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,keras,opencv,vscode,github,mysql,arduino,react,typescript,selenium,git,linux,sklearn&theme=dark" />
 </p>
 
 ---
