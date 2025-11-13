@@ -118,13 +118,14 @@ Driven by curiosity, I love turning complex problems into real-world AI-driven s
 ## 📌 Featured Repositories
 
 <p align="center">
-  <a href="https://github.com/Abihassan/Smart-Cradle-AI"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Abihassan&repo=Smart-Cradle-AI&theme=tokyonight" /></a>
-  <a href="https://github.com/Abihassan/AI-Vision-Assistant"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Abihassan&repo=AI-Vision-Assistant&theme=tokyonight" /></a>
+  <a href="https://github.com/Abihassan/Smart-Cradle"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Abihassan&repo=Smart-Cradle&theme=tokyonight" /></a>
+  <a href="https://github.com/Abihassan/AI-Based-Vision"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Abihassan&repo=AI-Based-Vision&theme=tokyonight" /></a>
 </p>
 
 <p align="center">
   <a href="https://github.com/Abihassan/Ornithopter-Control-System"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Abihassan&repo=Ornithopter-Control-System&theme=tokyonight" /></a>
-  <a href="https://github.com/Abihassan/Data-Visualization-Dashboard"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Abihassan&repo=Data-Visualization-Dashboard&theme=tokyonight" /></a>
+  <a href="https://github.com/Abihassan/AI-Based-Vision"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Abihassan&repo=AI-Based-Vision&theme=tokyonight" /></a>
+  <a href="https://github.com/Abihassan/Voice-Control-Robot"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Abihassan&repo=Voice-Control-Robot&theme=tokyonight" /></a>
 </p>
 
 ---
