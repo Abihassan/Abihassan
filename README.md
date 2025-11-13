@@ -1,4 +1,4 @@
-<!-- Profile README for ABIHASSAN K -->
+<!-- 🌟 Ultimate GitHub Profile README for ABIHASSAN K -->
 
 <h1 align="center">👋 Hi, I'm <span style="color:#00BFFF;">Abihassan K</span></h1>
 <h3 align="center">🚀 AI & ML Enthusiast | Machine Learning Developer | Deep Learning Innovator</h3>
@@ -9,7 +9,7 @@
 
 📧 **Email:** [abihassan415.k@gmail.com](mailto:abihassan415.k@gmail.com)  
 📱 **Mobile:** +91 8667894215  
-🔗 **LinkedIn:** [Connect with me](#) *(Add your LinkedIn URL)*  
+🔗 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/abihassan-k-b8196727a/) *(Add your LinkedIn URL)*  
 🌍 **Location:** Chennai, India  
 
 ---
@@ -83,6 +83,17 @@ I’m passionate about building smart systems that combine innovation and real-w
 
 ---
 
+## 🏆 Achievements
+
+- 🥇 Built 3+ **AI-powered automation systems** integrating computer vision and deep learning  
+- 💡 Published multiple **academic-level projects** in AI/ML domains  
+- 👨‍💻 Completed **3 internships** in data science and AI technologies  
+- 🌐 Contributed to **open-source Python-based tools**  
+- 🎯 Maintained a **consistent academic CGPA of 8.2** in AI & ML specialization  
+- 🧩 Recognized for **innovation in IoT + AI integration** projects  
+
+---
+
 ## 📊 GitHub Analytics
 
 <p align="center">
@@ -104,10 +115,26 @@ I’m passionate about building smart systems that combine innovation and real-w
 
 ---
 
+## 📌 Pinned Projects Showcase
+
+<p align="center">
+  <a href="https://github.com/Abihassan/Smart-Cradle-AI"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ABIHASSAN-K&repo=Smart-Cradle-AI&theme=tokyonight" /></a>
+  <a href="https://github.com/Abihassan/AI-Vision-Assistant"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ABIHASSAN-K&repo=AI-Vision-Assistant&theme=tokyonight" /></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Abihassan/Ornithopter-Control-System"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ABIHASSAN-K&repo=Ornithopter-Control-System&theme=tokyonight" /></a>
+  <a href="https://github.com/Abihassan/Data-Visualization-Dashboard"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ABIHASSAN-K&repo=Data-Visualization-Dashboard&theme=tokyonight" /></a>
+</p>
+
+*(Tip: Replace the repo names above with your actual project repository names on GitHub!)*
+
+---
+
 ## 🛠️ Technologies & Tools I Use
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,opencv,vscode,github,mysql,arduino,react,typescript,selenium,git,linux,sklearn&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,opencv,vscode,github,mysql,arduino,selenium,git,linux,sklearn&theme=dark" />
 </p>
 
 ---
@@ -115,7 +142,7 @@ I’m passionate about building smart systems that combine innovation and real-w
 ## 📈 Visitor Count
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ABIHASSAN-K&label=Profile%20Views&color=brightgreen&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Abihassan&label=Profile%20Views&color=brightgreen&style=flat-square" alt="Profile Views" />
 </p>
 
 ---
@@ -138,8 +165,8 @@ I’m passionate about building smart systems that combine innovation and real-w
 
 <p align="center">
   <a href="mailto:abihassan415.k@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/ABIHASSAN-K"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="#"><img src="[https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white](https://www.linkedin.com/in/abihassan-k-b8196727a/)" /></a>
+  <a href="https://github.com/Abihassan"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
 ---
