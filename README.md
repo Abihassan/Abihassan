@@ -107,7 +107,7 @@ I’m passionate about building smart systems that combine innovation and real-w
 ## 🛠️ Technologies & Tools I Use
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,keras,opencv,vscode,github,mysql,arduino,react,typescript,selenium,git,linux,sklearn&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,opencv,vscode,github,mysql,arduino,react,typescript,selenium,git,linux,sklearn&theme=dark" />
 </p>
 
 ---
